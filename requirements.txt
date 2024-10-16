@@ -1,0 +1,5 @@
+pyttsx3
+pywin32
+opencv-python
+opencv-contrib-python
+imutils
